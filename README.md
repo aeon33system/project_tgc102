@@ -1,7 +1,5 @@
 # 歡迎來到TGC102_99的第一個Git倉庫
-
-**Markdown是一種輕量級的「標記語言」**
-
+扮演工程師的腳色!!!!!!
 
 ![markdown](https://www.mdeditor.tw/images/logos/markdown.png "markdown")
 
